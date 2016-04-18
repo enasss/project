@@ -9,7 +9,7 @@
 <h2 align="left" > Forms</h2>
 <form>
 Search: 
- <input type="search"><button type="button" ></button>
+ <input type="search"><button type="button" >GO!</button>
 <br>
 <br>
 Name:  
@@ -37,7 +37,7 @@ Numbers of Years in development:
 Development Range:<input type="range" value="50">
 <br>
 <br>
-
+T-shirt color: <input type="text">
 <br>
 <br>
 <p align="right"> Background Color:
